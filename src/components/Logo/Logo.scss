@@ -1,0 +1,11 @@
+
+.Logo {
+  //becareful the path
+  //it's start root dir, not this file's dir
+  background-image: url(images/react.svg);
+  background-size: cover;
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  vertical-align: middle;
+}
